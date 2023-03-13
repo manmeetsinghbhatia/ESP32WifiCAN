@@ -1,0 +1,5 @@
+*.ino.hex
+*.ino.elf
+*.o
+*.d
+*.DS_Store
