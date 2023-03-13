@@ -11,7 +11,7 @@ To use this firmware, you will need the following:
 
 ## Installation
 
-- one this Git repository to your local machine.
+- Clone this Git repository to your local machine.
 - Open the Arduino IDE and import the firmware sketch (esp32_can_transceiver_firmware.ino) from the cloned repository.
 - Connect your ESP32 board to your computer via USB and select the appropriate board and port settings in the Arduino IDE.
 - Compile and upload the firmware sketch to your ESP32 board.
